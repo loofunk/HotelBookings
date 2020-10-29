@@ -1,0 +1,13 @@
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.exe
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.deps.json
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.runtimeconfig.json
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.runtimeconfig.dev.json
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.dll
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\bin\Debug\netcoreapp3.1\HotelBookings.pdb
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.csprojAssemblyReference.cache
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.AssemblyInfoInputs.cache
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.AssemblyInfo.cs
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.csproj.CoreCompileInputs.cache
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.dll
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.pdb
+C:\Users\louis.dasouki\source\repos\HotelBookings\HotelBookings\obj\Debug\netcoreapp3.1\HotelBookings.genruntimeconfig.cache
